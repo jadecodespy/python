@@ -1,3 +1,5 @@
+
+
 first_twelve=[9,8,3,6,5,4,3,7,6,5,3,2]
 Even_digit=[]
 odd_digit=[]
