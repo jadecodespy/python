@@ -1,4 +1,4 @@
-#Create a function that when given two strings of letters, determine whether the second can be made from the first by removing one letter.
+s#Create a function that when given two strings of letters, determine whether the second can be made from the first by removing one letter.
 # The remaining letters must stay in the same order.
 #Example
 #near ("reset", "rest") => true
